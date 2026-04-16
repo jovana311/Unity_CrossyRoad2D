@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 33295e91fbd6b42438043f429c958c71
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Trava: {fileID: 7264866342488517270, guid: 75855fb10c594e741944247c915061af, type: 3}
+  - Put: {fileID: 2310060815496739435, guid: 747d4e6d5cb723d418379aacc6bc455f, type: 3}
+  - Voda: {fileID: 263219051345969418, guid: 22a86f98767ed1143a6ce03556e765c0, type: 3}
+  - ScoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
